@@ -1,12 +1,12 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "outDir": "dist",
+    "outDir": "out-tsc/router",
     "types": [
       "node"
     ],
     "rootDir": "src",
-    "tsBuildInfoFile": "dist/tsconfig.app.tsbuildinfo"
+    "tsBuildInfoFile": "out-tsc/router/tsconfig.app.tsbuildinfo"
   },
   "include": [
     "src/**/*.ts"

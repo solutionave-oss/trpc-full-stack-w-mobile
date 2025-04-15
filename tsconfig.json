@@ -8,6 +8,15 @@
     },
     {
       "path": "./apps/api"
+    },
+    {
+      "path": "./src/mobile"
+    },
+    {
+      "path": "./src/web"
+    },
+    {
+      "path": "./src/router"
     }
   ]
 }
